@@ -16,7 +16,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 
 ## Tools Used 🛠️
 * [<b>GitHub</b>](https://github.com/) - To host my static website (HTML, CSS, JS).
-* [<b>Animate on scroll library</b>](https://github.com/michalsnik/aos) - To animate my website while scrolling.
 * [<b>GoQr</b>](https://goqr.me/) - To use QR Code API
 
 
