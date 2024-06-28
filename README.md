@@ -3,7 +3,7 @@
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)]
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)]
-[![Author](https://img.shields.io/badge/Author-Vinod%20Jangid-purple.svg)]
+[![Author](Ege Ozalan)]
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)]
 <a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
